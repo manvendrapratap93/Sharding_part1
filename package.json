@@ -1,0 +1,14 @@
+{
+  "name": "sharding_part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "reporting-labs": "^0.6.3"
+  }
+}
